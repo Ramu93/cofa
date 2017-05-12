@@ -1,0 +1,19 @@
+
+
+stdClass Object
+(
+    [men] => stdClass Object
+        (
+            [pr] => Yes
+            [count] => 20
+            [remarks] => High
+        )
+
+    [kids] => stdClass Object
+        (
+            [pr] => Yes
+            [count] => 30
+            [remarks] => Low
+        )
+
+)
